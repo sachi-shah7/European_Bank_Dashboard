@@ -1,4 +1,4 @@
-# Executive Summary: Systemic Attrition Controls & Portfolio Stabilization Framework
+# **Executive Summary: Systemic Attrition Controls & Portfolio Stabilization Framework**
 ### To: Government Financial Stakeholders, Macro-Prudential Regulators, and Bank Executive Leadership
 ### Subject: Deploying Live Analytics Framework for Portfolio Stabilization and Churn Risk Mitigation
 ---
